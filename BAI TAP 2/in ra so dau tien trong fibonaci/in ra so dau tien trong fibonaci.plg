@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: in ra so dau tien trong fibonaci - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Dell\AppData\Local\Temp\RSP7BC6.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/in ra so dau tien trong fibonaci.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\CAU TRUC VA GIAI THUAT\in ra so dau tien trong fibonaci\15.cpp"
+]
+Creating command line "cl.exe @C:\Users\Dell\AppData\Local\Temp\RSP7BC6.tmp" 
+Creating temporary file "C:\Users\Dell\AppData\Local\Temp\RSP7BC7.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/in ra so dau tien trong fibonaci.pdb" /debug /machine:I386 /out:"Debug/in ra so dau tien trong fibonaci.exe" /pdbtype:sept 
+".\Debug\15.obj"
+]
+Creating command line "link.exe @C:\Users\Dell\AppData\Local\Temp\RSP7BC7.tmp"
+<h3>Output Window</h3>
+Compiling...
+15.cpp
+d:\cau truc va giai thuat\in ra so dau tien trong fibonaci\15.cpp(26) : warning C4715: 'sodautien' : not all control paths return a value
+Linking...
+
+
+
+<h3>Results</h3>
+in ra so dau tien trong fibonaci.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>
